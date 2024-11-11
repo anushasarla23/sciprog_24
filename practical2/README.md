@@ -21,11 +21,11 @@
 
 * Output of both the codes:
 	* For Sum.c:
-	* Sum1 = 7.485478
-	* Sum2 = 7.485472
-	* Difference between the two is 0.000007
+	Sum1 = 7.485478
+	Sum2 = 7.485472
+	Difference between the two is 0.000007
 
 	* For Conversion.c:
-	* inum=6, fnum=6.000000, inum in binary=110
+	inum=6, fnum=6.000000, inum in binary=110
 
  
