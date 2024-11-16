@@ -39,7 +39,6 @@ gcc arctanh.c arctanh -o -lm
 
 1) Scanf:
 ```bash
-(i)
 Enter an int and a double:
 1
 2.3
@@ -60,8 +59,6 @@ This fib. series is:
 
 3) Inverse Hyperbolic Tangent Function:
 ```bash
-./arctan
-
 Please enter a positive real number delta: 
 0.01
 The diff. at x=-0.900000 is 2.4440900820
