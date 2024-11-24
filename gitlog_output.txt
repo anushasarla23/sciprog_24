@@ -1,0 +1,363 @@
+commit 556b17b2278b73b96fc84a28e84abae8254fe973 (HEAD -> practical9, origin/practical9)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:07:07 2024 +0000
+
+    Adding README.md to practical9
+
+commit 0367fbeab22ba09d227468d338583706c48430f8
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:06:17 2024 +0000
+
+    Adding not_magic_square.txt to practical9
+
+commit b198fee1df3151319621ed498c1d2adcdb65a6ee
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:01:34 2024 +0000
+
+    Adding magic_square.txt to practical9
+
+commit e9bb3b7f3a940a4c4c1f99cd02efefb9fbe6d3a4
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:00:24 2024 +0000
+
+    Adding main_stub.c to practical9
+
+commit dd83637ef0fb26dfce8a9435a41b47a1e1d59748
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 10:48:24 2024 +0000
+
+    Adding magic_square.h to practical9
+
+commit 1a4d0ccabb2056637269b6cc018c432561219a79 (origin/practical8, practical8)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 12:24:26 2024 +0000
+
+    Adding README.md to practical8
+
+commit 6aa43c46e13e7fa10098a2b8b187eb6fb855a023
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 12:23:41 2024 +0000
+
+    Adding gcd_random.c to practical8
+
+commit 932f8dc42dfbcafc10baba8d6505a5f702e8f421
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 12:19:42 2024 +0000
+
+    Adding gcd.c to practical8
+
+commit f305e682db0b899f8277cd1b02e12e8d99b822ce (origin/practical7, practical7)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 11:33:54 2024 +0000
+
+    Adding README.md to practical7
+
+commit 58e8d65fc784999ae6536f12d5699e1acf5dcacb
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 11:31:26 2024 +0000
+
+    Adding pointers.c to practical7
+
+commit 7ebfb8e053e86b19a4eb4d2067f998bf061f37ad
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 11:27:09 2024 +0000
+
+    Adding finde.c to practical7
+
+commit ed42ebafbe388dfb4c058adbd19683a68a175785 (origin/practical6, practical6)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 20:21:03 2024 +0000
+
+    Adding README.md to practical6
+
+commit 046c951fb016187101e33d01e2464912e7fc2f0b
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 20:05:20 2024 +0000
+
+    Adding mm.c to practical6
+
+commit 3f2eeababc075440d7e201ae2dbb8f157efa3cbf
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 14:47:13 2024 +0000
+
+    Adding .gitignore file to remove temporary files
+
+commit 018cf57b2d4d1ba4fb78d09ccaa5133021431fb3
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 10:58:16 2024 +0000
+
+    Adding Makefile to practical6
+
+commit 1d312963e1d98cd9b7e7b57b9dfd954b0edd3b17
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:43:48 2024 +0000
+
+    Delete README.md
+
+commit 8cc156e6f6633dcaf62018c9c42676b45dbd443a
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:43:19 2024 +0000
+
+    Delete practical5 directory
+
+commit 4fc98bb7c2549ce570db1b6f1f1ffb3ab6dba111
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:43:05 2024 +0000
+
+    Delete practical4 directory
+
+commit ba8c0525e5249f6b5d9b5af9fd9cc0ef334bf16b
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:42:53 2024 +0000
+
+    Delete practical3 directory
+
+commit 2e2dc21dddc1a4093441ca1d9e5eb7446aa9769e
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:40:47 2024 +0000
+
+    Delete practical2 directory
+
+commit 013ab270016afee9cb00137c9d0b0aa72088e8a8
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 17 11:00:21 2024 +0000
+
+    Adding main.c to practical6
+
+commit efd04b71595d1f9ed390d4b86b2c5a67b5027c09 (origin/practical5)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 11:04:20 2024 +0000
+
+    Adding READ.md to practical5
+
+commit 18c7cd9deafa1f6808f57de26bf9393e152c97fb
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 10:58:51 2024 +0000
+
+    Adding arctanh.c to practical5
+
+commit 0742b72f75d964481ce07b77d648c5b6c996827f
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 10:57:43 2024 +0000
+
+    Adding fib.c to practical5
+
+commit 3af8f1a4fdb3c657fa1105ef4dca6dffefc64c76
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 10:54:11 2024 +0000
+
+    Adding use_scanf.c to practical5
+
+commit 04ac9a79ba4b4090979f9f429b69ce2e4d215611 (origin/practical4, practical4)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 13 12:18:03 2024 +0000
+
+    Adding README.md to practical4
+
+commit a2864e19cdba75713e330bdf4a8f325bde43b3c6
+    Adding use_scanf.c to practical5
+
+commit 04ac9a79ba4b4090979f9f429b69ce2e4d215611 (origin/practical4, practical4)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 13 12:18:03 2024 +0000
+
+    Adding README.md to practical4
+
+commit a2864e19cdba75713e330bdf4a8f325bde43b3c6
+commit 556b17b2278b73b96fc84a28e84abae8254fe973 (HEAD -> practical9, origin/practical9)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:07:07 2024 +0000
+
+    Adding README.md to practical9
+
+commit 0367fbeab22ba09d227468d338583706c48430f8
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:06:17 2024 +0000
+
+    Adding not_magic_square.txt to practical9
+
+commit b198fee1df3151319621ed498c1d2adcdb65a6ee
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:01:34 2024 +0000
+
+    Adding magic_square.txt to practical9
+
+commit e9bb3b7f3a940a4c4c1f99cd02efefb9fbe6d3a4
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 11:00:24 2024 +0000
+
+    Adding main_stub.c to practical9
+
+commit dd83637ef0fb26dfce8a9435a41b47a1e1d59748
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 24 10:48:24 2024 +0000
+
+    Adding magic_square.h to practical9
+
+commit 1a4d0ccabb2056637269b6cc018c432561219a79 (origin/practical8, practical8)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 12:24:26 2024 +0000
+
+    Adding README.md to practical8
+
+commit 6aa43c46e13e7fa10098a2b8b187eb6fb855a023
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 12:23:41 2024 +0000
+
+    Adding gcd_random.c to practical8
+
+commit 932f8dc42dfbcafc10baba8d6505a5f702e8f421
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 12:19:42 2024 +0000
+
+    Adding gcd.c to practical8
+
+commit f305e682db0b899f8277cd1b02e12e8d99b822ce (origin/practical7, practical7)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 11:33:54 2024 +0000
+
+    Adding README.md to practical7
+
+commit 58e8d65fc784999ae6536f12d5699e1acf5dcacb
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 11:31:26 2024 +0000
+
+    Adding pointers.c to practical7
+
+commit 7ebfb8e053e86b19a4eb4d2067f998bf061f37ad
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 20 11:27:09 2024 +0000
+
+    Adding finde.c to practical7
+
+commit ed42ebafbe388dfb4c058adbd19683a68a175785 (origin/practical6, practical6)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 20:21:03 2024 +0000
+
+    Adding README.md to practical6
+
+commit 046c951fb016187101e33d01e2464912e7fc2f0b
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 20:05:20 2024 +0000
+
+    Adding mm.c to practical6
+
+commit 3f2eeababc075440d7e201ae2dbb8f157efa3cbf
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 14:47:13 2024 +0000
+
+    Adding .gitignore file to remove temporary files
+
+commit 018cf57b2d4d1ba4fb78d09ccaa5133021431fb3
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 19 10:58:16 2024 +0000
+
+    Adding Makefile to practical6
+
+commit 1d312963e1d98cd9b7e7b57b9dfd954b0edd3b17
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:43:48 2024 +0000
+
+    Delete README.md
+
+commit 8cc156e6f6633dcaf62018c9c42676b45dbd443a
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:43:19 2024 +0000
+
+    Delete practical5 directory
+
+commit 4fc98bb7c2549ce570db1b6f1f1ffb3ab6dba111
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:43:05 2024 +0000
+
+    Delete practical4 directory
+
+commit ba8c0525e5249f6b5d9b5af9fd9cc0ef334bf16b
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:42:53 2024 +0000
+
+    Delete practical3 directory
+
+commit 2e2dc21dddc1a4093441ca1d9e5eb7446aa9769e
+Author: anushasarla <70333254+anushasarla@users.noreply.github.com>
+Date:   Tue Nov 19 10:40:47 2024 +0000
+
+    Delete practical2 directory
+
+commit 013ab270016afee9cb00137c9d0b0aa72088e8a8
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sun Nov 17 11:00:21 2024 +0000
+
+    Adding main.c to practical6
+
+commit efd04b71595d1f9ed390d4b86b2c5a67b5027c09 (origin/practical5)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 11:04:20 2024 +0000
+
+    Adding READ.md to practical5
+
+commit 18c7cd9deafa1f6808f57de26bf9393e152c97fb
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 10:58:51 2024 +0000
+
+    Adding arctanh.c to practical5
+
+commit 0742b72f75d964481ce07b77d648c5b6c996827f
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 10:57:43 2024 +0000
+
+    Adding fib.c to practical5
+
+commit 3af8f1a4fdb3c657fa1105ef4dca6dffefc64c76
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 16 10:54:11 2024 +0000
+
+    Adding use_scanf.c to practical5
+
+commit 04ac9a79ba4b4090979f9f429b69ce2e4d215611 (origin/practical4, practical4)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 13 12:18:03 2024 +0000
+
+    Adding README.md to practical4
+
+commit a2864e19cdba75713e330bdf4a8f325bde43b3c6
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Wed Nov 13 12:11:11 2024 +0000
+
+    Adding practical4.c to practical4
+
+commit 7d8c1bfb8e6395b7d086b24f6588c2457e0c965b (origin/practical3, practical3)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 12 11:18:52 2024 +0000
+
+    README.md to practical3
+
+commit 0f84063db1ab62cc2a919263e002ca8657fdcd93
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Tue Nov 12 11:15:15 2024 +0000
+
+    practical3.c to practical3
+
+commit bd88654faf829fe1f5a07716b373f6aa9c4da07b (origin/practical2, practical2)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Mon Nov 11 14:15:31 2024 +0000
+
+    README.md to practical2
+
+commit 23435aa2bd7020ed0113340d141bbdb8f21258a2
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Mon Nov 11 14:14:11 2024 +0000
+
+    Adding Conversion.c to practical2
+
+commit fa1bb6cb5de8947aefe6083f5ad228c84b077170
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Mon Nov 11 14:11:18 2024 +0000
+
+    Adding Sum.c to practical2
+
+commit d0b7d61888bf6648dee26da32c853137c945cf09 (origin/master, master)
+Author: Anusha Anand Sarla <anushasarla123@gmail.com>
+Date:   Sat Nov 9 21:40:15 2024 +0000
+
+    Add introduuction to Git Assignment
